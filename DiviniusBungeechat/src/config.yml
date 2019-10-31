@@ -1,0 +1,3 @@
+staff-chat-toggle-on-msg: "&bStaff chat is now &aON&b."
+staff-chat-toggle-off-msg: "&bStaff chat is now &cOFF&b."
+staff-chat-format: "&b[StaffChat] %sender-name%&6>&b %message%"
